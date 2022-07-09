@@ -16,7 +16,7 @@ html, body {
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
-#hi {
+ #hi {
 	padding-left: 5vw;
 	font-size: 200vh;
 	font-size: 12vw;
@@ -26,6 +26,7 @@ html, body {
 	line-height: 0.9em;
 	color: white;
 }
+
 #job-title {
   padding-left: 5vw;
 	font-size: min(3vw, 36px);
